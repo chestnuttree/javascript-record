@@ -19,4 +19,4 @@ personal learning record
    有些程序员喜欢保守的在语句前加一个分号，这样哪怕之前的语句被修改了、分号被误删了，当前语句还是会正确的解析：
 
     var x=0
-    ;[x,x+1,x+2].forEach(console.log)
+    ;[x,x+1,x+2].forEach(console.log)（ps:以‘( [’开头的语句非常常见）
