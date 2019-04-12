@@ -45,6 +45,19 @@ personal learning record
          全局对象（global object）
          数组
          函数
+         
+   #### 函数
+       构造函数：用函数来初始化（new）一个新对象，每个构造函数定义了一类（class）对象
+       类 ：对一群具有相同特征的对象的集合的描述；
+       对象：真实存在的对象个体；       
+   ##### 类
+     类可以看成对象类型的子类型
+     Array
+     Function
+     Date
+     RegExp
+     Error
+
   
 
 
